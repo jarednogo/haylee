@@ -4,5 +4,5 @@ i then transcribed a couple games to see how long it takes (around 5-10min per g
 
 still missing:
     060
-    062-119
+    064-119
     143, 145, 147
