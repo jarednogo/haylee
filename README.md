@@ -9,5 +9,6 @@ i then transcribed a couple games to see how long it takes (around 5-10min per g
 
 still missing:
  - 060
- - 078-119
+ - 81
+ - 85-119
  - 143, 145, 147
